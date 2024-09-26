@@ -6,7 +6,7 @@
 
 This project aims to analyze employee attendance data to identify patterns, trends, and potential areas for improvement. The analysis includes key metrics such as Emoloyee Present rates, Sick leave, and Work from home percentage. The goal is to provide actionable insights to improve workforce management, productivity, and overall attendance behavior.
 
-(https://github.com/Neerajkumar012/Full-Analysis-projects/edit/main/End_to_end/Hr_analysis/image.png)
+![alt text](./image.png)
 
 ## Analysis Objectives
 
